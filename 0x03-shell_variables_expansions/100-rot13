@@ -1,2 +1,2 @@
 #!/bin/bash
-echo <<EOF | tr '[A-Za-z]' '[N-ZA-Mn-za-m]' EOF
+echo << EOF | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
